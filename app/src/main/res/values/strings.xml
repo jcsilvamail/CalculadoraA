@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="value1">Insert first value?</string>
+    <string name="value2">Insert second value?</string>
+</resources>
